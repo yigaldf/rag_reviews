@@ -143,7 +143,7 @@ FastAPI orchestrates both the indexing flow (build FAISS index) and query flow (
 ## 📁 Project Structure
 
 ```
-stampli_disney_reviews/
+disney_reviews/
 ├── app/                          # Main application package
 │   ├── main.py                   # FastAPI application entry point & lifespan
 │   ├── api/

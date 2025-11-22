@@ -1,5 +1,5 @@
 [project]
-name = "stampli-disney-reviews"
+name = "rag-reviews"
 version = "0.1.0"
 description = "Disneyland Reviews RAG API with FastAPI and Gradio UI"
 readme = "README.md"

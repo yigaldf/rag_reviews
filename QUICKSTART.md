@@ -129,7 +129,7 @@ for query in queries:
 ## Project Structure
 
 ```
-stampli_disney_reviews/
+disney_reviews/
 ├── app/                    # FastAPI application
 │   ├── main.py            # Application entry point
 │   ├── api/               # API endpoints
