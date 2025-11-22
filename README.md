@@ -350,13 +350,13 @@ DEFAULT_TEMPERATURE=0.2
 
 ```python
 # Customer insights
-"What do visitors like about Disneyland Hong Kong?"
+"What do visitors like about Disneyland Paris?"
 
 # Comparative analysis
 "How does food quality compare between the three parks?"
 
 # Sentiment analysis
-"What are common complaints about Disneyland Paris?"
+"What are common complaints about Disneyland Hong Kong?"
 
 # Feature discovery
 "Which park has the best attractions for young children?"
